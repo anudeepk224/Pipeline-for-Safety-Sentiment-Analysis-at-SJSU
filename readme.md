@@ -163,4 +163,4 @@ This project is intended for educational purposes. Always ensure you comply with
 
 ## 💌 Author
 
-This data pipeline is brought to you by [Kaushikq](https://github.com/kaushikq-ravindran). If you have questions, suggestions, or feedback, please don't hesitate to reach out at kaushikq.ravindran@gmail.com
+This data pipeline is brought to you by [Anudeep]([https://github.com/kaushikq-ravindran](https://github.com/anudeepk224/Pipeline-for-Safety-Sentiment-Analysis-at-SJSU)). If you have questions, suggestions, or feedback, please don't hesitate to reach out at kaushikq.ravindran@gmail.com
